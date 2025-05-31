@@ -19,7 +19,7 @@
         "build": "tailwindcss -i ./public/input.css -o ./public/style/main.css"
     },
     "keywords": [],
-    "devDependencies": {
+   "dependencies": {
         "autoprefixer": "^10.4.21",
         "postcss": "^8.5.4",
         "tailwindcss": "^4.1.8"
