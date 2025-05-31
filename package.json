@@ -16,7 +16,7 @@
     "main": "tailwind.config.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
-        "build": "npx tailwindcss -i ./public/input.css -o ./public/style/main.css "
+        "build": "tailwindcss -i ./public/input.css -o ./public/style/main.css"
     },
     "keywords": [],
     "devDependencies": {
